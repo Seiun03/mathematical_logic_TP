@@ -140,7 +140,7 @@ fib(n) == fib(n-1) + fib(n-2)
 
 [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]  
 
-∀x∀y∀z (fib(x, y) ∧ fib(x+1, z) -> fib(x + 2, y + z)  
+∀x∀y∀z (fib(x, y) ∧ fib(x+1, z) -> fib(x + 2, y + z))  
 fib(0) == 1  
 fib(1) == 1  
 fib(10) == 89  
