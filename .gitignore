@@ -1,0 +1,10 @@
+.streamlit/secrets.toml
+*.pyc
+.__pycache__/*.pyc
+data.jsonl
+backup.txt
+test.py
+신규 userdata 테이블.sql
+Streamlit/.streamlit/secrets.toml
+/.streamlit/
+my_pages/board_test.py
